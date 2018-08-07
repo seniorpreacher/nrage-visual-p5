@@ -1,0 +1,25 @@
+{
+  "name": "nrage-visual-p5",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seniorpreacher/nrage-visual-p5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seniorpreacher/nrage-visual-p5/issues"
+  },
+  "homepage": "https://github.com/seniorpreacher/nrage-visual-p5#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "normalize-css": "^2.3.1",
+    "p5": "^0.6.1"
+  }
+}

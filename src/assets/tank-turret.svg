@@ -1,0 +1,34 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 540" style="enable-background:new 0 0 200 540">
+    <style>
+        .st0{fill:#4D4D4D;}
+        .st1{fill:#7D7979;}
+        .st2{fill:#1A1A1A;}
+        .st3{fill:#303030;}
+        .st4{fill:#4E4E4E;}
+        .st5{fill:#5C5042;}
+        .st6{fill:#81785E;}
+        .st7{fill:#ADA282;}
+        .st10{opacity:0.3;fill:#111111;}
+    </style>
+    <path class="st0" d="M93.1 2h13.6v81.7H93.1z"/>
+    <path d="M108.7 84.7H91.3V0h17.4v84.7zm-15.4-2h13.4V2H93.3v80.7z"/>
+    <path class="st1" d="M96.7 2h6.7v82.7h-6.7z"/>
+    <path class="st2" d="M86.2 78.1h27.7v101.1H86.2z"/>
+    <path d="M115.8 181.2H84.2V76.1h31.7v105.1zm-29.6-2h27.7V78.1H86.2v101.1z"/>
+    <path class="st3" d="M92.2 78.1h15.4v101.1H92.2z"/>
+    <path class="st4" d="M97.9 78.1h4.1v101.1h-4.1z"/>
+    <path class="st5 dark" d="M149.3 178.2H50.7l-17.1 31.6v137.5l13.1 15.1h106.6l13.1-15.1V209.8z"/>
+    <path class="st2"
+          d="M149.3 178.2l17.1 31.6v137.5l-13.1 15.1H46.7l-13.1-15.1V209.8l17.1-31.6h98.6m0-3H50.7c-1.1 0-2.1.6-2.6 1.6L31 208.4c-.2.4-.4.9-.4 1.4v137.5c0 .7.3 1.4.7 2l13.1 15.1c.6.7 1.4 1 2.3 1h106.6c.9 0 1.7-.4 2.3-1l13.1-15.1c.5-.5.7-1.2.7-2V209.8c0-.5-.1-1-.4-1.4l-17-31.6c-.6-1-1.6-1.6-2.7-1.6z"/>
+    <path class="st6 midlight" d="M59.7 182h14.9l-1.2 174.5H48.3L36 345.9l2-134.6z"/>
+    <path class="st6 midlight" d="M161.5 304.6l1.2-90.6-17.6-30.4-61.5-1.6v122.6z"/>
+    <path class="st6 midlight" d="M86.2 357.5l62 1.4 14.5-14.9-1.2-30.2H83.6z"/>
+    <path class="st7 light" d="M86.2 184.1h4.7v42.1h-4.7z"/>
+    <path class="st7 light" d="M116.2 317h42.1v4.7h-42.1z"/>
+    <circle class="st10" cx="99.9" cy="279.3" r="51.6"/>
+    <circle class="st5 dark" cx="98.3" cy="270" r="49.3"/>
+    <path class="st2"
+          d="M98.3 320.8a50.9 50.9 0 1 1 .1-101.7 50.9 50.9 0 0 1-.1 101.7zm0-98.6a47.9 47.9 0 1 0 .1 95.7 47.9 47.9 0 0 0-.1-95.7z"/>
+    <circle class="st6 midlight" cx="96.3" cy="266.1" r="42"/>
+    <circle class="st7 light" cx="85" cy="256.4" r="24.4"/>
+</svg>
